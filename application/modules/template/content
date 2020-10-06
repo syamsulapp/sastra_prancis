@@ -1,0 +1,257 @@
+<div id="page_content_inner">
+
+            <!-- statistics (small charts) -->
+            <div class="uk-grid uk-grid-width-large-1-4 uk-grid-width-medium-1-2 uk-grid-medium uk-sortable sortable-handler hierarchical_show" data-uk-sortable data-uk-grid-margin>
+                <div>
+                    <div class="md-card">
+                        <div class="md-card-content">
+                            <div class="uk-float-right uk-margin-top uk-margin-small-right"><span class="peity_visitors peity_data">5,3,9,6,5,9,7</span></div>
+                            <span class="uk-text-muted uk-text-small">Visitors (last 7d)</span>
+                            <h2 class="uk-margin-remove"><span class="countUpMe">0<noscript>12456</noscript></span></h2>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="md-card">
+                        <div class="md-card-content">
+                            <div class="uk-float-right uk-margin-top uk-margin-small-right"><span class="peity_sale peity_data">5,3,9,6,5,9,7,3,5,2</span></div>
+                            <span class="uk-text-muted uk-text-small">Sale</span>
+                            <h2 class="uk-margin-remove">$<span class="countUpMe">0<noscript>142384</noscript></span></h2>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="md-card">
+                        <div class="md-card-content">
+                            <div class="uk-float-right uk-margin-top uk-margin-small-right"><span class="peity_orders peity_data">64/100</span></div>
+                            <span class="uk-text-muted uk-text-small">Orders Completed</span>
+                            <h2 class="uk-margin-remove"><span class="countUpMe">0<noscript>64</noscript></span>%</h2>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="md-card">
+                        <div class="md-card-content">
+                            <div class="uk-float-right uk-margin-top uk-margin-small-right"><span class="peity_live peity_data">5,3,9,6,5,9,7,3,5,2,5,3,9,6,5,9,7,3,5,2</span></div>
+                            <span class="uk-text-muted uk-text-small">Visitors (live)</span>
+                            <h2 class="uk-margin-remove" id="peity_live_text">46</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- large chart -->
+            <div class="uk-grid">
+                <div class="uk-width-1-1">
+                    <div class="md-card">
+                        <div class="md-card-toolbar">
+                            <div class="md-card-toolbar-actions">
+                                <i class="md-icon material-icons md-card-fullscreen-activate">&#xE5D0;</i>
+                                <i class="md-icon material-icons">&#xE5D5;</i>
+                                <div class="md-card-dropdown" data-uk-dropdown>
+                                    <i class="md-icon material-icons">&#xE5D4;</i>
+                                    <div class="uk-dropdown uk-dropdown-flip uk-dropdown-small">
+                                        <ul class="uk-nav">
+                                            <li><a href="#">Action 1</a></li>
+                                            <li><a href="#">Action 2</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <h3 class="md-card-toolbar-heading-text">
+                                Chart
+                            </h3>
+                        </div>
+                        <div class="md-card-content">
+                            <div class="mGraph-wrapper">
+                                <div id="mGraph_sale" class="mGraph"></div>
+                            </div>
+                            <div class="md-card-fullscreen-content">
+                                <div class="uk-overflow-container">
+                                    <table class="uk-table uk-table-no-border uk-text-nowrap">
+                                    <thead>
+                                        <tr>
+                                            <th>Date</th>
+                                            <th>Best Seller</th>
+                                            <th>Total Sale</th>
+                                            <th>Change</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>January 2014</td>
+                                            <td>Ea in corrupti.</td>
+                                            <td>$3 234 162</td>
+                                            <td>0</td>
+                                        </tr>
+                                        <tr>
+                                            <td>February 2014</td>
+                                            <td>Nulla odit laboriosam officia.</td>
+                                            <td>$3 771 083</td>
+                                            <td class="uk-text-success">+2.5%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>March 2014</td>
+                                            <td>Omnis pariatur tempora sed.</td>
+                                            <td>$2 429 352</td>
+                                            <td class="uk-text-danger">-4.6%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>April 2014</td>
+                                            <td>Qui incidunt corrupti.</td>
+                                            <td>$4 844 169</td>
+                                            <td class="uk-text-success">+7%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>May 2014</td>
+                                            <td>Odio accusamus nemo.</td>
+                                            <td>$5 284 318</td>
+                                            <td class="uk-text-success">+3.2%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>June 2014</td>
+                                            <td>Molestiae sint sit vel expedita.</td>
+                                            <td>$4 688 183</td>
+                                            <td class="uk-text-danger">-6%</td>
+                                        </tr>
+                                        <tr>
+                                            <td>July 2014</td>
+                                            <td>Porro ea quisquam.</td>
+                                            <td>$4 353 427</td>
+                                            <td class="uk-text-success">-5.3%</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </div>
+                                <p class="uk-margin-large-top uk-margin-small-bottom heading_list uk-text-success">Some Info:</p>
+                                <p class="uk-margin-top-remove">Nobis doloribus consequatur illo sunt illum est molestiae vero architecto enim vel ut officia consequatur blanditiis dicta corporis voluptatem quia omnis recusandae eligendi recusandae quidem veniam quisquam aut accusantium vel qui sunt facere ipsum a enim asperiores voluptas ipsam est et placeat illum sed velit ut quam maiores tempore eos ab quae officiis in est ea provident optio recusandae ea natus occaecati cupiditate quia eligendi nostrum rem voluptatibus reiciendis reprehenderit tempora qui repellendus quo voluptates eligendi accusamus iusto corporis repudiandae ab eum deserunt iusto rem dolorem quam corrupti ratione id dolores eaque nobis recusandae voluptatem voluptatem quis corporis quis.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- large chart -->
+            <div class="uk-grid">
+                <div class="uk-width-1-1">
+                    <div class="md-card">
+                        <div class="md-card-toolbar">
+                            <div class="md-card-toolbar-actions">
+                                <i class="md-icon material-icons md-card-fullscreen-activate">&#xE5D0;</i>
+                            </div>
+                            <h3 class="md-card-toolbar-heading-text">
+                                Chart
+                            </h3>
+                        </div>
+                        <div class="md-card-content">
+                            <div class="mGraph-wrapper">
+                                <!-- content start -->
+								    <?php
+								        include(APPPATH.'modules/'.$modules.'/views/'.$content.'.php');
+								    ?>
+								<!-- content end -->
+                            </div>
+                            <div class="md-card-fullscreen-content">
+                                <div class="uk-overflow-container">
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- circular charts -->
+            <div class="uk-grid uk-grid-width-small-1-2 uk-grid-width-large-1-3 uk-grid-width-xlarge-1-5 uk-text-center uk-sortable sortable-handler" id="dashboard_sortable_cards" data-uk-sortable data-uk-grid-margin>
+                <div>
+                    <div class="md-card md-card-hover md-card-overlay">
+                        <div class="md-card-content">
+                            <div class="epc_chart" data-percent="76" data-bar-color="#03a9f4">
+                                <span class="epc_chart_icon"><i class="material-icons">&#xE0BE;</i></span>
+                            </div>
+                        </div>
+                        <div class="md-card-overlay-content">
+                            <div class="uk-clearfix md-card-overlay-header">
+                                <i class="md-icon material-icons md-card-overlay-toggler">&#xE5D4;</i>
+                                <h3>
+                                    User Messages
+                                </h3>
+                            </div>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus alias consectetur.
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="md-card md-card-hover md-card-overlay">
+                        <div class="md-card-content uk-flex uk-flex-center uk-flex-middle">
+                            <span class="peity_conversions_large peity_data">5,3,9,6,5,9,7</span>
+                        </div>
+                        <div class="md-card-overlay-content">
+                            <div class="uk-clearfix md-card-overlay-header">
+                                <i class="md-icon material-icons md-card-overlay-toggler">&#xE5D4;</i>
+                                <h3>
+                                    Conversions
+                                </h3>
+                            </div>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="md-card md-card-hover md-card-overlay md-card-overlay-active">
+                        <div class="md-card-content" id="canvas_1">
+                            <div class="epc_chart" data-percent="37" data-bar-color="#9c27b0">
+                                <span class="epc_chart_icon"><i class="material-icons">&#xE85D;</i></span>
+                            </div>
+                        </div>
+                        <div class="md-card-overlay-content">
+                            <div class="uk-clearfix md-card-overlay-header">
+                                <i class="md-icon material-icons md-card-overlay-toggler">&#xE5D4;</i>
+                                <h3>
+                                    Tasks List
+                                </h3>
+                            </div>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                            <button class="md-btn md-btn-primary">More</button>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="md-card md-card-hover md-card-overlay">
+                        <div class="md-card-content">
+                            <div class="epc_chart" data-percent="53" data-bar-color="#009688">
+                                <span class="epc_chart_text"><span class="countUpMe">53</span>%</span>
+                            </div>
+                        </div>
+                        <div class="md-card-overlay-content">
+                            <div class="uk-clearfix md-card-overlay-header">
+                                <i class="md-icon material-icons md-card-overlay-toggler">&#xE5D4;</i>
+                                <h3>
+                                    Orders
+                                </h3>
+                            </div>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="md-card md-card-hover md-card-overlay">
+                        <div class="md-card-content">
+                            <div class="epc_chart" data-percent="37" data-bar-color="#607d8b">
+                                <span class="epc_chart_icon"><i class="material-icons">&#xE7FE;</i></span>
+                            </div>
+                        </div>
+                        <div class="md-card-overlay-content">
+                            <div class="uk-clearfix md-card-overlay-header">
+                                <i class="md-icon material-icons md-card-overlay-toggler">&#xE5D4;</i>
+                                <h3>
+                                    User Registrations
+                                </h3>
+                            </div>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>

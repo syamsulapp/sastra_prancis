@@ -1,0 +1,15 @@
+{
+	"info": [
+		{
+			"language":"id-ID",
+			"language_detail":"English - United States",
+			"version":"0.0.1",
+			"translator":"Gedank Gorenk <gedankgorenk@rocketmail.com>",
+			"info":"Language Dictionary for Selo CMS v.2"
+		}
+	],
+	"dictionary": [	
+		
+		{"f":" ", "t":" ", "i":"post.php #0"}
+	]
+}

@@ -1,0 +1,495 @@
+{
+	"info": [
+		{
+			"language":"id-ID",
+			"language_detail":"Bahasa Indonesia",
+			"version":"0.0.1",
+			"translator":"Gedank Gorenk <gedankgorenk@rocketmail.com>",
+			"info":"Language Dictionary for Selo CMS v.2"
+		}
+	],
+	"dictionary": [
+		{
+			"f":"Home",
+			"t":"Beranda",
+			"i":"index.php"
+		},
+		{
+			"f":"Login",
+			"t":"Masuk",
+			"i":"index.php"
+		},
+		{
+			"f":"News Ticker:",
+			"t":"Sekilas Info:",
+			"i":"index.php"
+		},
+		{
+			"f":"Copyright.",
+			"t":"Hak Cipta.",
+			"i":"index.php"
+		},
+		{
+			"f":"Announcement",
+			"t":"Pengumuman",
+			"i":"index.php"
+		},
+		{
+			"f":"Starting Dates",
+			"t":"Tanggal Mulai",
+			"i":"index.php"
+		},
+		{
+			"f":"Date of Completion",
+			"t":"Tanggal Selesai",
+			"i":"index.php"
+		},
+		{
+			"f":"Clock",
+			"t":"Jam",
+			"i":"index.php"
+		},
+		{
+			"f":"Location",
+			"t":"Lokasi",
+			"i":"index.php"
+		},
+		{
+			"f":"Email / Telp",
+			"t":"Surel / Telp",
+			"i":"index.php"
+		},
+		{
+			"f":"Event",
+			"t":"Agenda",
+			"i":"index.php"
+		},
+		{
+			"f":"Location Map",
+			"t":"Peta Lokasi",
+			"i":"index.php"
+		},
+		{
+			"f":"Searching...",
+			"t":"Pencarian...",
+			"i":"index.php"
+		},
+		{
+			"f":"by",
+			"t":"oleh",
+			"i":"index.php"
+		},
+		{
+			"f":"News",
+			"t":"Berita",
+			"i":"index.php"
+		},
+		{
+			"f":"Comment",
+			"t":"Komentar",
+			"i":"index.php"
+		},
+		{
+			"f":"Category",
+			"t":"Kategori",
+			"i":"index.php"
+		},
+		{
+			"f":"Name",
+			"t":"Nama",
+			"i":"index.php"
+		},
+		{
+			"f":"Email",
+			"t":"Surel",
+			"i":"index.php"
+		},
+		{
+			"f":"Read more",
+			"t":"Selengkapnya",
+			"i":"index.php"
+		},
+		{
+			"f":"First",
+			"t":"Awal",
+			"i":"index.php"
+		},
+		{
+			"f":"Last",
+			"t":"Akhir",
+			"i":"index.php"
+		},
+		{
+			"f":"Leave a Comment",
+			"t":"Tinggalkan Komentar",
+			"i":"index.php"
+		},
+		{
+			"f":"Cancle",
+			"t":"Batal",
+			"i":"index.php"
+		},
+		{
+			"f":"Reply",
+			"t":"Balas",
+			"i":"index.php"
+		},
+		{
+			"f":"Reply Comments",
+			"t":"Balas Komentar",
+			"i":"index.php"
+		},
+		{
+			"f":"Send",
+			"t":"Kirim",
+			"i":"index.php"
+		},
+		{
+			"f":"Share",
+			"t":"Bagikan",
+			"i":"index.php"
+		},
+		{
+			"f":"Print",
+			"t":"Cetak",
+			"i":"index.php"
+		},
+		{
+			"f":"Write on",
+			"t":"Ditulis pada",
+			"i":"index.php"
+		},
+		{
+			"f":"Other",
+			"t":"Lainnya",
+			"i":"index.php"
+		},
+		{
+			"f":"Total Visitors",
+			"t":"Total Pengunjung",
+			"i":"index.php"
+		},
+		{
+			"f":"Unique Visitors",
+			"t":"Pengunjung Unik",
+			"i":"index.php"
+		},
+		{
+			"f":"Total Content",
+			"t":"Total Konten",
+			"i":"index.php"
+		},
+		{
+			"f":"Uploaded on",
+			"t":"Diunggah pada",
+			"i":"index.php"
+		},
+		{
+			"f":"Your IP",
+			"t":"IP Anda",
+			"i":"index.php"
+		},
+		{
+			"f":"Access Since",
+			"t":"Mengakses Sejak",
+			"i":"index.php"
+		},
+		{
+			"f":"this page could not be found",
+			"t":"Halaman tidak ditemukan",
+			"i":"index.php"
+		},
+		{
+			"f":"Were not sure what happened,<br>but we do know this page doesnt exist.",
+			"t":"Kami tidak tahu apa yang terjadi,<br>tapi kami tahu, halaman ini tidak ada.",
+			"i":"index.php"
+		},
+		{
+			"f":"Table",
+			"t":"Tabel",
+			"i":"index.php"
+		},
+		{
+			"f":"Borrowers Graph Library",
+			"t":"Grafik Peminjam Perpustakaan",
+			"i":"index.php"
+		},
+		{
+			"f":"Borrowers Statistics Libraries",
+			"t":"Statistik Peminjam Perpustakaan",
+			"i":"index.php"
+		},
+		{
+			"f":"Borrowers",
+			"t":"Peminjam",
+			"i":"index.php"
+		},
+		{
+			"f":"Graphics Library Visitor",
+			"t":"Grafik Pengunjung Perpustakaan",
+			"i":"index.php"
+		},
+		{
+			"f":"Library Visitor Statistics",
+			"t":"Statistik Pengunjung Perpustakaan",
+			"i":"index.php"
+		},
+		{
+			"f":"Visitors",
+			"t":"Pengunjung",
+			"i":"index.php"
+		},
+		{
+			"f":"Chart Membership Data",
+			"t":"Grafik Data Keanggotaan",
+			"i":"index.php"
+		},
+		{
+			"f":"Data Statistic Membership",
+			"t":"Statistik Data Keanggotaan",
+			"i":"index.php"
+		},
+		{
+			"f":"Membership",
+			"t":"Keanggotaan",
+			"i":"index.php"
+		},
+		{
+			"f":"ERROR!",
+			"t":"Bermasalah!",
+			"i":"index.php"
+		},
+		{
+			"f":"Errors",
+			"t":"Bermasalah",
+			"i":"index.php"
+		},
+		{
+			"f":"RELATED PAGES",
+			"t":"HALAMAN TERKAIT",
+			"i":"index.php"
+		},
+		{
+			"f":"Username",
+			"t":"Nama Pengguna",
+			"i":"index.php"
+		},
+		{
+			"f":"Password",
+			"t":"Kata Kunci",
+			"i":"index.php"
+		},
+		{
+			"f":"Change",
+			"t":"Ubah",
+			"i":"index.php"
+		},
+		{
+			"f":"Forgot Password",
+			"t":"Lupa Kata Kunci",
+			"i":"index.php"
+		},
+		{
+			"f":"Back",
+			"t":"Kembali",
+			"i":"index.php"
+		},
+		{
+			"f":"New Password",
+			"t":"Kata Kunci Baru",
+			"i":"index.php"
+		},
+		{
+			"f":"Repeated Password",
+			"t":"Ulangi Kata Kunci",
+			"i":"index.php"
+		},
+		{
+			"f":"Polls failed save!",
+			"t":"Poling gagal disimpan!",
+			"i":"index.php"
+		},
+		{
+			"f":"Polls",
+			"t":"Poling",
+			"i":"index.php"
+		},
+		{
+			"f":"Ebook",
+			"t":"Buku Digital",
+			"i":"index.php"
+		},
+		{
+			"f":"Product",
+			"t":"Produk",
+			"i":"index.php"
+		},
+		{
+			"f":"Video",
+			"t":"Video",
+			"i":"index.php"
+		},
+		{
+			"f":"Album",
+			"t":"Album",
+			"i":"index.php"
+		},
+		{
+			"f":"Quote",
+			"t":"Kata Bijak",
+			"i":"index.php"
+		},
+		{
+			"f":"You have to vote on this poll!",
+			"t":"Anda sudah pernah memberi suara pada poling ini!",
+			"i":"index.php"
+		},
+		{
+			"f":"Polls successfully saved",
+			"t":"Poling berhasil disimpan",
+			"i":"index.php"
+		},
+		{
+			"f":"Web not found!",
+			"t":"Web tidak ditemukan!",
+			"i":"index.php"
+		},
+		{
+			"f":"not found!",
+			"t":"tidak ditemukan!",
+			"i":"index.php"
+		},
+		{
+			"f":"at",
+			"t":"pada",
+			"i":"index.php"
+		},
+		{
+			"f":"Opened since",
+			"t":"Dibuka sejak",
+			"i":"index.php"
+		},
+		{
+			"f":"closed on",
+			"t":"ditutup pada",
+			"i":"index.php"
+		},
+		{
+			"f":"No poll at the moment.",
+			"t":"Tidak ada poling untuk saat ini.",
+			"i":"index.php"
+		},
+		{
+			"f":"Choose",
+			"t":"Pilih",
+			"i":"index.php"
+		},
+		{
+			"f":"Result",
+			"t":"Hasil",
+			"i":"index.php"
+		},
+		{
+			"f":"Old Poll",
+			"t":"Poling Lama",
+			"i":"index.php"
+		},
+		{
+			"f":"Mon",
+			"t":"Sen",
+			"i":"index.php"
+		},
+		{
+			"f":"Tue",
+			"t":"Sel",
+			"i":"index.php"
+		},
+		{
+			"f":"Wed",
+			"t":"Rab",
+			"i":"index.php"
+		},
+		{
+			"f":"Thu",
+			"t":"Kam",
+			"i":"index.php"
+		},
+		{
+			"f":"Fri",
+			"t":"Jum",
+			"i":"index.php"
+		},
+		{
+			"f":"Sat",
+			"t":"Sab",
+			"i":"index.php"
+		},
+		{
+			"f":"Sun",
+			"t":"Min",
+			"i":"index.php"
+		},
+		{
+			"f":"Jan",
+			"t":"Jan",
+			"i":"index.php"
+		},
+		{
+			"f":"Feb",
+			"t":"Feb",
+			"i":"index.php"
+		},
+		{
+			"f":"Mar",
+			"t":"Mar",
+			"i":"index.php"
+		},
+		{
+			"f":"Apr",
+			"t":"Apr",
+			"i":"index.php"
+		},
+		{
+			"f":"May",
+			"t":"Mei",
+			"i":"index.php"
+		},
+		{
+			"f":"Jun",
+			"t":"Jun",
+			"i":"index.php"
+		},
+		{
+			"f":"Jul",
+			"t":"Jul",
+			"i":"index.php"
+		},
+		{
+			"f":"Aug",
+			"t":"Agu",
+			"i":"index.php"
+		},
+		{
+			"f":"Sep",
+			"t":"Sep",
+			"i":"index.php"
+		},
+		{
+			"f":"Oct",
+			"t":"Okt",
+			"i":"index.php"
+		},
+		{
+			"f":"Nov",
+			"t":"Nov",
+			"i":"index.php"
+		},
+		{
+			"f":"Dec",
+			"t":"Des",
+			"i":"index.php"
+		},
+
+		{"f":" ", "t":" ", "i":"post.php #0"}
+	]
+}

@@ -1,0 +1,354 @@
+[27-Jul-2016 20:52:54 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[27-Jul-2016 20:52:54 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[28-Jul-2016 04:04:21 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Jul-2016 06:42:57 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[28-Jul-2016 06:42:59 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[28-Jul-2016 06:43:23 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[31-Jul-2016 01:19:04 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[31-Jul-2016 01:19:12 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[31-Jul-2016 01:19:15 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[31-Jul-2016 02:59:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/febiumkendariac/public_html/application/controllers/home.php on line 2097
+[31-Jul-2016 02:59:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/febiumkendariac/public_html/application/controllers/home.php on line 2097
+[31-Jul-2016 03:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/febiumkendariac/public_html/application/controllers/home.php on line 2097
+[31-Jul-2016 03:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/febiumkendariac/public_html/application/controllers/home.php on line 2097
+[31-Jul-2016 03:22:05 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[31-Jul-2016 03:23:23 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[15-Aug-2016 07:00:06 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[15-Aug-2016 13:36:47 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/febiumkendariac/public_html/themes/umk/sidebar2.php on line 3
+[15-Aug-2016 13:36:48 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/febiumkendariac/public_html/themes/umk/sidebar2.php on line 3
+[18-Aug-2016 03:13:13 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[18-Aug-2016 10:17:32 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[19-Aug-2016 13:38:32 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[19-Aug-2016 23:28:47 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:13:28 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:13:32 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:13:43 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:13:45 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:13:47 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:14:12 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:14:19 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:14:26 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:14:34 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:14:35 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:14:36 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:14:37 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:14:39 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:14:41 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:15:07 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:15:14 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:15:18 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:15:20 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 00:15:36 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Aug-2016 03:00:44 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Aug-2016 06:35:10 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Aug-2016 06:24:06 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Aug-2016 13:15:47 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Aug-2016 18:57:02 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Sep-2016 07:43:55 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[03-Sep-2016 02:24:59 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:25:08 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:25:40 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:31:37 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:32:23 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:33:56 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:35:39 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:35:54 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:36:47 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:39:17 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:42:26 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:44:59 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 02:48:49 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 03:12:14 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 03:20:42 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 03:35:52 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[03-Sep-2016 03:47:32 America/Chicago] PHP Fatal error:  Call to a member function where() on a non-object in /home/febiumkendariac/public_html/system/libraries/Session.php on line 217
+[12-Sep-2016 07:07:40 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[13-Sep-2016 14:32:13 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[14-Sep-2016 09:39:44 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Sep-2016 06:39:46 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[24-Sep-2016 10:40:31 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[26-Sep-2016 12:17:26 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[26-Sep-2016 12:17:26 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[27-Sep-2016 22:10:28 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[27-Sep-2016 22:10:28 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Sep-2016 00:26:59 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2016 08:00:05 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[30-Sep-2016 23:25:15 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Oct-2016 21:44:07 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Oct-2016 21:44:07 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Oct-2016 21:44:12 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Oct-2016 21:45:08 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Oct-2016 21:45:08 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[03-Oct-2016 11:32:14 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[03-Oct-2016 11:32:21 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[04-Oct-2016 20:54:03 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[05-Oct-2016 01:30:08 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[05-Oct-2016 01:30:14 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[05-Oct-2016 01:30:20 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[05-Oct-2016 01:30:22 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[05-Oct-2016 01:30:23 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[05-Oct-2016 19:03:04 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[05-Oct-2016 22:32:13 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[08-Oct-2016 11:58:35 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[09-Oct-2016 19:31:08 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[09-Oct-2016 19:31:18 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[12-Oct-2016 00:21:57 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[12-Oct-2016 10:57:02 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[15-Oct-2016 23:35:57 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[19-Oct-2016 02:55:50 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[20-Oct-2016 07:02:45 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Oct-2016 12:50:05 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Nov-2016 07:53:49 America/Chicago] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Nov-2016 04:31:50 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[25-Nov-2016 16:37:28 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[25-Nov-2016 22:32:32 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[26-Nov-2016 04:48:23 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[26-Nov-2016 11:03:57 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[27-Nov-2016 08:14:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Nov-2016 07:04:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Nov-2016 14:20:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[13-Dec-2016 17:44:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[13-Dec-2016 17:44:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[14-Dec-2016 03:23:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[19-Dec-2016 05:50:59 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[20-Dec-2016 16:32:59 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Dec-2016 11:00:47 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[25-Dec-2016 09:28:28 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Dec-2016 06:25:12 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Dec-2016 14:54:41 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Dec-2016 14:56:12 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Dec-2016 14:56:29 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Dec-2016 14:56:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Dec-2016 14:56:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Dec-2016 14:57:10 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Dec-2016 14:58:23 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Dec-2016 14:59:40 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Dec-2016 15:00:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Dec-2016 08:31:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[31-Dec-2016 08:29:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[31-Dec-2016 14:41:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[31-Dec-2016 16:54:37 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[31-Dec-2016 22:24:57 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Jan-2017 04:15:47 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Jan-2017 19:40:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[04-Jan-2017 05:38:39 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[04-Jan-2017 23:14:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[07-Jan-2017 05:57:08 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[10-Jan-2017 06:35:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[13-Jan-2017 11:25:46 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[16-Jan-2017 05:16:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[17-Jan-2017 17:45:34 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[19-Jan-2017 16:39:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Jan-2017 06:38:18 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[25-Jan-2017 06:42:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[27-Jan-2017 07:27:33 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Jan-2017 09:28:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Jan-2017 10:03:17 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[31-Jan-2017 11:41:42 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Feb-2017 23:28:09 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[04-Feb-2017 11:10:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[04-Feb-2017 15:10:03 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[04-Feb-2017 20:50:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[05-Feb-2017 02:47:37 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[05-Feb-2017 09:24:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[05-Feb-2017 15:25:34 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[07-Feb-2017 06:24:50 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[10-Feb-2017 06:43:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[13-Feb-2017 10:51:03 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[16-Feb-2017 06:57:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[19-Feb-2017 06:13:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Feb-2017 09:41:22 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Feb-2017 06:46:18 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Mar-2017 23:05:33 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[04-Mar-2017 05:32:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[07-Mar-2017 09:27:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[10-Mar-2017 05:55:44 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[11-Mar-2017 07:30:10 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[11-Mar-2017 15:23:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[12-Mar-2017 00:25:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[12-Mar-2017 06:44:05 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[12-Mar-2017 10:23:25 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[12-Mar-2017 18:40:28 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[13-Mar-2017 00:50:32 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[13-Mar-2017 01:40:05 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[13-Mar-2017 05:54:23 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[13-Mar-2017 07:00:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[16-Mar-2017 10:37:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[19-Mar-2017 10:42:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Mar-2017 05:59:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[25-Mar-2017 06:24:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Mar-2017 05:02:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[31-Mar-2017 05:32:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Apr-2017 14:44:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Apr-2017 15:22:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[04-Apr-2017 05:51:38 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[10-Apr-2017 05:58:25 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Apr-2017 09:43:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Apr-2017 22:38:33 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Apr-2017 04:36:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Apr-2017 10:52:50 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Apr-2017 16:46:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Apr-2017 22:39:50 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[25-Apr-2017 05:49:17 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[04-May-2017 06:00:39 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[27-May-2017 09:01:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[27-May-2017 15:43:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[27-May-2017 18:20:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-May-2017 14:48:32 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[30-Jun-2017 21:43:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Jul-2017 17:47:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[03-Jul-2017 18:50:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[19-Jul-2017 06:08:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Jul-2017 11:21:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[12-Aug-2017 17:09:57 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[12-Aug-2017 17:10:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[18-Aug-2017 18:23:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[18-Aug-2017 18:23:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Aug-2017 07:26:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[25-Aug-2017 09:05:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[05-Sep-2017 19:05:15 Asia/Jakarta] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[05-Sep-2017 19:05:39 Asia/Jakarta] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[05-Sep-2017 19:05:41 Asia/Jakarta] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[05-Sep-2017 19:05:42 Asia/Jakarta] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[05-Sep-2017 19:05:42 Asia/Jakarta] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[05-Sep-2017 19:05:42 Asia/Jakarta] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[09-Sep-2017 13:45:39 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[12-Sep-2017 07:01:17 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[20-Sep-2017 05:16:14 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[20-Sep-2017 16:38:41 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[20-Sep-2017 16:38:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[20-Sep-2017 18:01:38 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[20-Sep-2017 19:29:46 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[20-Sep-2017 19:30:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[20-Sep-2017 19:30:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[20-Sep-2017 19:31:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[20-Sep-2017 19:31:09 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Sep-2017 08:14:09 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Sep-2017 16:53:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Sep-2017 17:18:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Sep-2017 17:27:33 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Sep-2017 17:28:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Sep-2017 17:29:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[21-Sep-2017 22:54:36 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:30:10 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:30:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:30:14 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:30:14 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:30:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:30:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:31:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:31:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:31:08 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:31:08 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:31:33 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:31:33 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:32:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:32:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:35:05 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:35:05 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:35:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 00:35:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 05:10:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 08:42:50 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 08:43:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 08:43:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:01:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:01:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:01:39 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:01:40 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:01:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:01:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:01:44 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:02:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:03:12 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:03:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:03:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:06:57 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:12:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:34:07 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[22-Sep-2017 18:38:34 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Sep-2017 07:31:00 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Sep-2017 07:31:01 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Sep-2017 12:03:24 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Sep-2017 12:03:24 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Sep-2017 16:03:23 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[23-Sep-2017 20:13:32 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[24-Sep-2017 17:44:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[24-Sep-2017 23:41:48 Asia/Jakarta] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[25-Sep-2017 00:01:09 Asia/Jakarta] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[25-Sep-2017 00:20:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[25-Sep-2017 01:40:31 Asia/Jakarta] PHP Fatal error:  Call to a member function find() on a non-object in /home/febiumkendariac/public_html/application/controllers/home.php on line 3001
+[25-Sep-2017 06:42:47 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[25-Sep-2017 10:10:03 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[26-Sep-2017 23:16:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[27-Sep-2017 16:51:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[27-Sep-2017 18:38:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[27-Sep-2017 18:38:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[28-Sep-2017 03:23:56 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:19:56 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:19:56 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:19:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:19:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:20:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:20:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:20:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:20:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:20:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:20:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:46 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:46 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:48 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:51 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:51 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:57 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:57 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:59 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:24:59 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:25:00 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 12:25:00 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 14:44:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 14:44:46 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[29-Sep-2017 14:45:42 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[30-Sep-2017 22:01:28 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[30-Sep-2017 22:01:33 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Oct-2017 07:16:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Oct-2017 12:41:05 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Oct-2017 10:13:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Oct-2017 23:13:46 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[03-Oct-2017 21:54:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[04-Oct-2017 17:48:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[06-Oct-2017 00:54:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[06-Oct-2017 10:29:07 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[07-Oct-2017 23:03:29 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[09-Oct-2017 19:22:13 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[09-Oct-2017 20:47:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[09-Oct-2017 20:48:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[09-Oct-2017 20:48:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[10-Oct-2017 12:30:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[10-Oct-2017 16:27:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[11-Oct-2017 17:49:10 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[11-Oct-2017 20:23:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[11-Oct-2017 21:37:10 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[13-Oct-2017 01:41:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[14-Oct-2017 11:15:21 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[15-Oct-2017 22:11:51 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[18-Oct-2017 01:08:22 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Nov-2017 06:06:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Nov-2017 12:32:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[01-Nov-2017 18:16:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Nov-2017 00:29:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Nov-2017 00:37:41 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Nov-2017 15:12:07 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[02-Nov-2017 20:58:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12
+[09-Nov-2017 11:19:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method Login::language() in /home/febiumkendariac/public_html/application/modules/login/controllers/login.php on line 12

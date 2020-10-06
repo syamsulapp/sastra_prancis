@@ -1,0 +1,31 @@
+body {background-color: transparent;}
+
+.uk-table .fa {font-size: 15px;border-radius: 50%;padding:5px;}
+.uk-table .fa:hover {background-color: #d0d0d0;}
+.uk-table th {text-align: center;vertical-align: middle;}
+.uk-table {margin-bottom: 0px;}
+
+.text-danger {color: #e53935;}
+.text-success {color: #7cb342;}
+.text-warning {color: #ffa000;}
+.text-primary {color: #0097a7;}
+
+.uk-table td, .uk-table th {padding: 4px;}
+
+#sidebar_main .menu_section > ul > li > a > .menu_icon {width: auto;}
+#sidebar_main .menu_section > ul > li ul a {padding: 7px 10px 6px 40px;}
+#sidebar_main .sidebar_main_header {height: 48px;margin-bottom: 0px;}
+#sidebar_main .sidebar_main_header .sidebar_logo {line-height: 40px;}
+#sidebar_main .sidebar_main_header .sidebar_logo a {margin-left: 5px;}
+#sidebar_main .menu_section > ul > li > a {padding: 8px 10px;}
+#sidebar_main .menu_section ul > li {border-bottom: 1px solid rgb(240, 240, 240);}
+#sidebar_main .menu_section ul > li:first-child {border-top: 1px solid rgb(240, 240, 240);}
+
+.modal {z-index: 10500;}
+
+.input-group-addon {background-color: #fff;}
+
+.tema-height {padding: 5px;}
+.disactive .tema-item {border: 5px solid #ccc;}
+.disactive .tema-item:hover {border: 5px solid #999;}
+.active .tema-item {border: 5px solid #39f;}

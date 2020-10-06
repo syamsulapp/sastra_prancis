@@ -1,0 +1,495 @@
+{
+	"info": [
+		{
+			"language":"ae-AE",
+			"language_detail":"الأندونيسية",
+			"version":"0.0.1",
+			"translator":"Gedank Gorenk <gedankgorenk@rocketmail.com>",
+			"info":"Language Dictionary for Selo CMS v.2"
+		}
+	],
+	"dictionary": [
+		{
+			"f":"Home",
+			"t":"الصفحة الرئيسية",
+			"i":"index.php"
+		},
+		{
+			"f":"Login",
+			"t":"تسجيل الدخول",
+			"i":"index.php"
+		},
+		{
+			"f":"News Ticker:",
+			"t":"شريط الأخبار:",
+			"i":"index.php"
+		},
+		{
+			"f":"Copyright.",
+			"t":"حقوق الطبع والنشر.",
+			"i":"index.php"
+		},
+		{
+			"f":"Announcement",
+			"t":"إعلان",
+			"i":"index.php"
+		},
+		{
+			"f":"Starting Dates",
+			"t":"ابتداء من تواريخ",
+			"i":"index.php"
+		},
+		{
+			"f":"Date of Completion",
+			"t":"تاريخ الانتهاء",
+			"i":"index.php"
+		},
+		{
+			"f":"Clock",
+			"t":"ساعة",
+			"i":"index.php"
+		},
+		{
+			"f":"Location",
+			"t":"موقع",
+			"i":"index.php"
+		},
+		{
+			"f":"Email / Telp",
+			"t":"البريد الإلكتروني / Telp",
+			"i":"index.php"
+		},
+		{
+			"f":"Event",
+			"t":"حالة",
+			"i":"index.php"
+		},
+		{
+			"f":"Location Map",
+			"t":"خريطة الموقع",
+			"i":"index.php"
+		},
+		{
+			"f":"Searching...",
+			"t":"البحث ...",
+			"i":"index.php"
+		},
+		{
+			"f":"by",
+			"t":"بواسطة",
+			"i":"index.php"
+		},
+		{
+			"f":"News",
+			"t":"أنباء",
+			"i":"index.php"
+		},
+		{
+			"f":"Comment",
+			"t":"تعليق",
+			"i":"index.php"
+		},
+		{
+			"f":"Category",
+			"t":"فئة",
+			"i":"index.php"
+		},
+		{
+			"f":"Name",
+			"t":"اسم",
+			"i":"index.php"
+		},
+		{
+			"f":"Email",
+			"t":"البريد الإلكتروني",
+			"i":"index.php"
+		},
+		{
+			"f":"Read more",
+			"t":"اقرأ المزيد",
+			"i":"index.php"
+		},
+		{
+			"f":"First",
+			"t":"أولا",
+			"i":"index.php"
+		},
+		{
+			"f":"Last",
+			"t":"مشاركة",
+			"i":"index.php"
+		},
+		{
+			"f":"Leave a Comment",
+			"t":"اترك تعليقا",
+			"i":"index.php"
+		},
+		{
+			"f":"Cancle",
+			"t":"ألغيت",
+			"i":"index.php"
+		},
+		{
+			"f":"Reply",
+			"t":"الرد",
+			"i":"index.php"
+		},
+		{
+			"f":"Reply Comments",
+			"t":"رد تعليقات",
+			"i":"index.php"
+		},
+		{
+			"f":"Send",
+			"t":"إرسال",
+			"i":"index.php"
+		},
+		{
+			"f":"Share",
+			"t":"حصة",
+			"i":"index.php"
+		},
+		{
+			"f":"Print",
+			"t":"طبع",
+			"i":"index.php"
+		},
+		{
+			"f":"Write on",
+			"t":"الكتابة على",
+			"i":"index.php"
+		},
+		{
+			"f":"Other",
+			"t":"آخر",
+			"i":"index.php"
+		},
+		{
+			"f":"Total Visitors",
+			"t":"عدد الزوار",
+			"i":"index.php"
+		},
+		{
+			"f":"Unique Visitors",
+			"t":"زائرين فريدين من نوعهم",
+			"i":"index.php"
+		},
+		{
+			"f":"Total Content",
+			"t":"إجمالي المحتوى",
+			"i":"index.php"
+		},
+		{
+			"f":"Uploaded on",
+			"t":"تم تحميلها على",
+			"i":"index.php"
+		},
+		{
+			"f":"Your IP",
+			"t":"IP الخاص بك",
+			"i":"index.php"
+		},
+		{
+			"f":"Access Since",
+			"t":"منذ وصول",
+			"i":"index.php"
+		},
+		{
+			"f":"this page could not be found",
+			"t":"هذه الصفحة لم يتم العثور على",
+			"i":"index.php"
+		},
+		{
+			"f":"Were not sure what happened,<br>but we do know this page doesnt exist.",
+			"t":"لم تكن متأكدا ما حدث، <BR> لكننا نعرف هذه الصفحة] لا وجود لها.",
+			"i":"index.php"
+		},
+		{
+			"f":"Table",
+			"t":"الطاولة",
+			"i":"index.php"
+		},
+		{
+			"f":"Borrowers Graph Library",
+			"t":"المقترضين مكتبة الرسم البياني",
+			"i":"index.php"
+		},
+		{
+			"f":"Borrowers Statistics Libraries",
+			"t":"المقترضين الاحصائيات المكتبات",
+			"i":"index.php"
+		},
+		{
+			"f":"Borrowers",
+			"t":"المقترضين",
+			"i":"index.php"
+		},
+		{
+			"f":"Graphics Library Visitor",
+			"t":"الرسومات مكتبة الزوار",
+			"i":"index.php"
+		},
+		{
+			"f":"Library Visitor Statistics",
+			"t":"مكتبة الاحصائيات الزوار",
+			"i":"index.php"
+		},
+		{
+			"f":"Visitors",
+			"t":"آخر",
+			"i":"index.php"
+		},
+		{
+			"f":"Chart Membership Data",
+			"t":"الرسم البياني العضوية البيانات",
+			"i":"index.php"
+		},
+		{
+			"f":"Data Statistic Membership",
+			"t":"العضوية إحصاء البيانات",
+			"i":"index.php"
+		},
+		{
+			"f":"Membership",
+			"t":"عضوية",
+			"i":"index.php"
+		},
+		{
+			"f":"ERROR!",
+			"t":"خطأ!",
+			"i":"index.php"
+		},
+		{
+			"f":"Errors",
+			"t":"أخطاء",
+			"i":"index.php"
+		},
+		{
+			"f":"RELATED PAGES",
+			"t":"صفحات ذات صلة",
+			"i":"index.php"
+		},
+		{
+			"f":"Username",
+			"t":"اسم المستخدم",
+			"i":"index.php"
+		},
+		{
+			"f":"Password",
+			"t":"كلمة السر",
+			"i":"index.php"
+		},
+		{
+			"f":"Change",
+			"t":"تغيير",
+			"i":"index.php"
+		},
+		{
+			"f":"Forgot Password",
+			"t":"نسيت كلمة المرور",
+			"i":"index.php"
+		},
+		{
+			"f":"Back",
+			"t":"إلى الوراء",
+			"i":"index.php"
+		},
+		{
+			"f":"New Password",
+			"t":"كلمة المرور الجديدة",
+			"i":"index.php"
+		},
+		{
+			"f":"Repeated Password",
+			"t":"كرر كلمة المرور",
+			"i":"index.php"
+		},
+		{
+			"f":"Polls failed save!",
+			"t":"فشل استطلاعات حفظ!",
+			"i":"index.php"
+		},
+		{
+			"f":"Polls",
+			"t":"استطلاعات الرأي",
+			"i":"index.php"
+		},
+		{
+			"f":"Ebook",
+			"t":"آخر الأخبار",
+			"i":"index.php"
+		},
+		{
+			"f":"Product",
+			"t":"المنتج",
+			"i":"index.php"
+		},
+		{
+			"f":"Video",
+			"t":"فيديو",
+			"i":"index.php"
+		},
+		{
+			"f":"Album",
+			"t":"الألبوم",
+			"i":"index.php"
+		},
+		{
+			"f":"Quote",
+			"t":"اقتبس",
+			"i":"index.php"
+		},
+		{
+			"f":"You have to vote on this poll!",
+			"t":"عليك أن تصوت في هذا الإستطلاع!",
+			"i":"index.php"
+		},
+		{
+			"f":"Polls successfully saved",
+			"t":"حفظ صناديق الاقتراع بنجاح",
+			"i":"index.php"
+		},
+		{
+			"f":"Web not found!",
+			"t":"لم يتم العثور على شبكة الإنترنت!",
+			"i":"index.php"
+		},
+		{
+			"f":"not found!",
+			"t":"لم يتم العثور على!",
+			"i":"index.php"
+		},
+		{
+			"f":"at",
+			"t":"على",
+			"i":"index.php"
+		},
+		{
+			"f":"Opened since",
+			"t":"افتتح منذ",
+			"i":"index.php"
+		},
+		{
+			"f":"closed on",
+			"t":"أغلقت يوم",
+			"i":"index.php"
+		},
+		{
+			"f":"No poll at the moment.",
+			"t":"لا الاستطلاع في الوقت الراهن.",
+			"i":"index.php"
+		},
+		{
+			"f":"Choose",
+			"t":"اختار",
+			"i":"index.php"
+		},
+		{
+			"f":"Result",
+			"t":"نتيجة",
+			"i":"index.php"
+		},
+		{
+			"f":"Old Poll",
+			"t":"قديم الإستطلاع",
+			"i":"index.php"
+		},
+		{
+			"f":"Mon",
+			"t":"الإثنين",
+			"i":"index.php"
+		},
+		{
+			"f":"Tue",
+			"t":"يوم الثلاثاء",
+			"i":"index.php"
+		},
+		{
+			"f":"Wed",
+			"t":"يوم الأربعاء",
+			"i":"index.php"
+		},
+		{
+			"f":"Thu",
+			"t":"يوم الخميس",
+			"i":"index.php"
+		},
+		{
+			"f":"Fri",
+			"t":"الجمعة",
+			"i":"index.php"
+		},
+		{
+			"f":"Sat",
+			"t":"يوم السبت",
+			"i":"index.php"
+		},
+		{
+			"f":"Sun",
+			"t":"الأحد",
+			"i":"index.php"
+		},
+		{
+			"f":"Jan",
+			"t":"يناير",
+			"i":"index.php"
+		},
+		{
+			"f":"Feb",
+			"t":"شباط",
+			"i":"index.php"
+		},
+		{
+			"f":"Mar",
+			"t":"مارس",
+			"i":"index.php"
+		},
+		{
+			"f":"Apr",
+			"t":"نيسان",
+			"i":"index.php"
+		},
+		{
+			"f":"May",
+			"t":"قد",
+			"i":"index.php"
+		},
+		{
+			"f":"Jun",
+			"t":"شهر يونيو",
+			"i":"index.php"
+		},
+		{
+			"f":"Jul",
+			"t":"تموز",
+			"i":"index.php"
+		},
+		{
+			"f":"Aug",
+			"t":"آب",
+			"i":"index.php"
+		},
+		{
+			"f":"Sep",
+			"t":"أيلول",
+			"i":"index.php"
+		},
+		{
+			"f":"Oct",
+			"t":"تشرين اول",
+			"i":"index.php"
+		},
+		{
+			"f":"Nov",
+			"t":"تشرين الثاني",
+			"i":"index.php"
+		},
+		{
+			"f":"Dec",
+			"t":"كانون الاول",
+			"i":"index.php"
+		},
+
+		{"f":" ", "t":" ", "i":"post.php #0"}
+	]
+}
