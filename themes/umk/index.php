@@ -675,6 +675,26 @@
 			</div>
 		</div>
 	</section>
+
+	<section class="cs parallax page_features section_padding_top_130 section_padding_bottom_100 columns_margin_bottom_30 container_padding_0 fluid_padding_0">
+		<div class="container-fluid">
+			<div class="container">
+				<div class="row">
+					<div class="tpb-title">
+						<h2>Video Galeri Dan Foto</h2>
+					</div>
+					<div class="col-sm-12 col-md-4 col-lg-3">
+						<?php echo get_thumbnail_album(4) ?>
+					</div>
+					<div class="col-sm-12 col-md-8 col-lg-9">
+						<?php echo get_video(2) ?>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
 	<!-- PARTS::END PENGUMUMAN -->
 	<!-- PARTS::BEGIN  SPONSOR -->
 	<section class="space-sm-pb clients-section-02">

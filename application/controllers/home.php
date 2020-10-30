@@ -2725,26 +2725,47 @@ class Home extends CI_Controller
 				$cont .= '</section>';
 				// PART:: isi halaman
 
-				$cont .= '<section class="space-ptb">';
-				$cont .= '<div class="container">';
-				$cont .= '<div class="row">';
+				// $cont .= '<section class="space-ptb">';
+				// $cont .= '<div class="container">';
+				// $cont .= '<div class="row">';
 
-				$cont .= '<div class="berita-detail">';
-				$cont .= '<div class="berita-content">';
-				$cont .= '	<div class="berita-img-2">';
+				// $cont .= '<div class="berita-detail">';
+				// $cont .= '<div class="berita-content">';
+				// $cont .= '	<div class="berita-img-2">';
+				// if ($row['gambar_andalan'] != '') {
+				// 	$cont .= '		<img src="' . $this->path() . '/' . $row['gambar_andalan'] . '">';
+				// }
+				// $cont .= '	</div>';
+				// $cont .= $row['tulisan_' . $this->session->userdata('lang')];
+				// $cont .= '</div>';
+				// $cont .= '<div class="berita-meta">';
+
+				// $cont .= '</section>';
+				// $cont .= '</div>';
+				// $cont .= '</div>';
+
+				// $cont .= '</div>';
+
+				$cont .= '<section class="ls section_padding_top_100 section_padding_bottom_100 columns_padding_25">';
+				$cont .= '		<div class="container">';
+				$cont .= '			<div class="row">';
+				$cont .= '				<div class="col-sm-7 col-md-8 col-lg-12">';
+				$cont .= '					<article class="single-post vertical-item post with_border content-padding big-padding">';
+				$cont .= '						<div class="entry-thumbnail item-media">';
 				if ($row['gambar_andalan'] != '') {
-					$cont .= '		<img src="' . $this->path() . '/' . $row['gambar_andalan'] . '">';
+					$cont .= '		<img class="img-fluid" src="' . $this->path() . '/' . $row['gambar_andalan'] . '">';
 				}
+				$cont .= '						</div>';
+				$cont .= '						<div class="item-content">';
+				$cont .= '							<div class="entry-content">';
+				$cont .=								'<p>' . $row['tulisan_' . $this->session->userdata('lang')] . '</p>';
+				$cont .= '							</div>';
+				$cont .= '						</div>';
+				$cont .= '					</article>';
+				$cont .= '				</div>';
+				$cont .= '		</div>';
 				$cont .= '	</div>';
-				$cont .= $row['tulisan_' . $this->session->userdata('lang')];
-				$cont .= '</div>';
-				$cont .= '<div class="berita-meta">';
-
 				$cont .= '</section>';
-				$cont .= '</div>';
-				$cont .= '</div>';
-
-				$cont .= '</div>';
 
 
 				// PARTS:: DI OFF KAN

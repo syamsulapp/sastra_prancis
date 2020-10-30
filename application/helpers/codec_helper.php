@@ -1152,15 +1152,13 @@ if (!function_exists('get_video')) {
 		CI()->db->order_by('id_video DESC');
 		CI()->db->limit($limit);
 		$q = CI()->db->get('video')->result_array();
-		$video_ = '<div class="video-utama">';
-		$video_ .= '	<div class="video-terbaru">';
-
-		$video_ .= '	</div>';
+		$video_ = '<div class="tpb tpb-html col-md-9">';
+		$video_ .= '	<div class="row">';
+		$video_ .= '<div class="col-md-12 widget-html">';
 		$video_ .= '</div>';
-		$video_ .= '<div class="video-lain">';
 		foreach ($q as $vid) {
 			$video_ .= '		<a">';
-			$video_ .= '			<iframe width="140" height="140"  src="' . $vid['url_video'] . '" frameborder="0" allowfullscreen=""></iframe>';
+			$video_ .= '			<iframe width="560" height="315"  src="' . $vid['url_video'] . '" frameborder="0" allowfullscreen=""></iframe>';
 			$video_ .= '		</a>';
 		}
 		$video_ .= '</div>';
@@ -1168,6 +1166,8 @@ if (!function_exists('get_video')) {
 		$video_ .= '<div class="text-right">';
 		$video_ .= '		<a href="' . site_url('home/video') . '">Video ' . clang('Other') . ' <i class="fa fa-arrow-right"></i></a>';
 		$video_ .= '	</div>';
+		$video_ .= '</div>';
+		$video_ .= '</div>';
 		return $video_;
 	}
 }
